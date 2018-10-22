@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\bin\Debug\RPS.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\bin\Debug\RPS.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\bin\Debug\RPS.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\obj\Debug\RPS.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\RPS\obj\Debug\RPS.pdb
